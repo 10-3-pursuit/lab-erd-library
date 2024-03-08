@@ -53,7 +53,7 @@ Determine how these entities interact with each other and the nature of these re
 
 - A Borrower can have multiple Loans over time, but each Loan is associated with only one Borrower at a time.
 
-**Step 4: Draw the ERD**
+### Step 4: Draw the ERD
 
 Using the information above, draw the ERD. This involves creating rectangles for each entity, listing their attributes within, and connecting the entities with lines to represent relationships. Indicate the type of relationship (one-to-many, many-to-many, etc.) with appropriate symbols near the connecting lines (crow's feet for many, a single line for one).
 
