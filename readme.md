@@ -50,7 +50,7 @@ Next, define some attributes for each entity. Attributes are the properties or d
 
 Determine how these entities interact with each other and the nature of these relationships.
 
-- A Book can be borrowed by a Borrowers, each Loan transaction involves only one Book at a time.
+- A Book can be borrowed by a single borrower. Each Loan transaction involves only one Book at a time.
 
 - A Borrower can have multiple Loans over time, but each Loan is associated with only one Borrower at a time.
 
