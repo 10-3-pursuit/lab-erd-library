@@ -13,7 +13,8 @@ Create an ERD for a Library Management System. The system should be able to trac
 Start by identifying the key entities involved in a library management system. For this exercise, consider the following entities:
 
 - **Book:** Represents the books available in the library.
-  Borrower: Represents the individuals who can borrow books from the library.
+
+- **Borrower:** Represents the individuals who can borrow books from the library.
 
 - **Loan:** Represents the transaction of borrowing a book.
 
