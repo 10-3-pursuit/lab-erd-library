@@ -36,7 +36,7 @@ Next, define some attributes for each entity. Attributes are the properties or d
 - Email
 - MembershipDate
 
-Loan
+**Loan**
 
 - LoanID (Primary Key)
 - BookID (Foreign Key from Book)
