@@ -61,6 +61,9 @@ Use a line with a crow's foot near the Loan entity to connect Book and Loan indi
 
 Similarly, connect Borrower and Loan to indicate that a borrower can have many loans.
 
+Here is a really nice key (but note, there are a lot of different flavors to these symbols)
+![](https://cacoo.com/wp-app/uploads/2018/05/ER-notation-1.png)
+
 **Step 5: Review and Revise**
 
 Review the ERD to ensure it accurately represents the system and revise as needed.
