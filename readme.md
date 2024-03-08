@@ -50,7 +50,7 @@ Next, define some attributes for each entity. Attributes are the properties or d
 
 Determine how these entities interact with each other and the nature of these relationships.
 
-- A Book can be borrowed by many Borrowers over time, but each Loan transaction involves only one Book at a time.
+- A Book can be borrowed by many Borrowers, but each Loan transaction involves only one Book at a time.
 
 - A Borrower can have multiple Loans over time, but each Loan is associated with only one Borrower at a time.
 
@@ -74,6 +74,14 @@ Check for:
 - Missing entities or attributes.
 - Incorrect relationships.
 - Redundant data that could be normalized.
+
+#### Apps that can build ERDs:
+
+- [Visual Paradigm - Online Productivity Suite](https://online.visual-paradigm.com/)
+- [PaintZ](https://paintz.app/)
+- [Lucidchart](https://www.lucidchart.com/pages/)
+- [Flowchart Maker & Online Diagram Software](https://app.diagrams.net/)
+  [A Free Database Designer for Developers and Analysts](https://dbdiagram.io/d/Hotels-and-Rooms-65e2164acd45b569fb51d823)
 
 ### Submission
 
