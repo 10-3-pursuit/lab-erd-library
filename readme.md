@@ -81,7 +81,7 @@ Check for:
 - [PaintZ](https://paintz.app/)
 - [Lucidchart](https://www.lucidchart.com/pages/)
 - [Flowchart Maker & Online Diagram Software](https://app.diagrams.net/)
-  [A Free Database Designer for Developers and Analysts](https://dbdiagram.io/d/Hotels-and-Rooms-65e2164acd45b569fb51d823)
+- [A Free Database Designer for Developers and Analysts](https://dbdiagram.io/d/Hotels-and-Rooms-65e2164acd45b569fb51d823)
 
 ### Submission
 
