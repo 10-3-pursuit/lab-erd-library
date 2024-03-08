@@ -1,5 +1,7 @@
 # Design a Library Management System
 
+<img src="./color-library.webp" width="500" height="500">
+
 This exercise provides a solid foundation in understanding how to create ERDs, identify entities and their relationships, and how to define the attributes of each entity. As you become more comfortable with ERDs, you can increase the complexity of the systems you design.
 
 ## Objective: Create an ERD for a Library Management System. The system should be able to track books, borrowers, and loans.
