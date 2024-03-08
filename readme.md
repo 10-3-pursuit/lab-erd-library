@@ -70,7 +70,7 @@ Review the ERD to ensure it accurately represents the system and revise as neede
 
 Check for:
 
-- - Missing entities or attributes.
+- Missing entities or attributes.
 - Incorrect relationships.
 - Redundant data that could be normalized.
 
